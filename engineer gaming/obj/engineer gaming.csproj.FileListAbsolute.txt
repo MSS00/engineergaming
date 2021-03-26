@@ -1,0 +1,8 @@
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\bin\Debug\engineer gaming.exe
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\bin\Debug\engineer gaming.pdb
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\engineer_gaming.Form1.resources
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\engineer_gaming.Properties.Resources.resources
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\engineer gaming.csproj.GenerateResource.Cache
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\engineer gaming.exe
+C:\Users\Tom\Documents\Visual Studio 2005\Projects\engineer gaming\engineer gaming\obj\Debug\engineer gaming.pdb
